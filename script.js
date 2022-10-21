@@ -1,0 +1,9 @@
+document.body.style.backgroundColor = "lightyellow";
+document.getElementById("box").style.width = "700px";
+document.getElementById("box").style.height = "50px";
+document.getElementById("box").style.marginLeft = "500px";
+document.getElementById("box").style.marginTop = "50px";
+document.getElementById("head").style.textAlign = "center";
+document.getElementById("head").style.backgroundColor = "lightgreen";
+document.getElementById("text").style.color = "red";
+document.getElementById("text").style.backgroundColor = "lightblue";
